@@ -1,2 +1,2 @@
 # LITTLETRACKIE
-Github Repository ARCK.CO 
+Github Repository for the LittleTrackie web application of ARCK Co.
